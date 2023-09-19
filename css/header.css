@@ -1,0 +1,29 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  align-items: center;
+}
+header h1 {
+
+  font-weight: bold;
+  font-size: 36px;
+}
+header ul {
+  display: flex;
+  /*! gap: 40px; */
+  font-size: 27px;
+}
+header ul li {
+
+}
+header ul li a {
+  color: white;
+  padding: 0 15px;
+  display: block;
+  border-bottom: 1px solid transparent;
+}
+header ul.gnb li a:hover{
+  
+  border-bottom: 3px solid;
+}

@@ -1,0 +1,16 @@
+div#title {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+div#title .wrap {
+
+}
+div#title .wrap h2 {
+  line-height: 2;
+}
+div#title .wrap h2 span{
+  
+}
